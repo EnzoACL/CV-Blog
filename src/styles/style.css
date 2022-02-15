@@ -19,5 +19,6 @@ h1,h2, h3
 
 footer {text-align: justify;
     font-size:small;}
-p {display: inline;}
+button {color: rgb(255, 255, 255);
+background-color: black;}
     /* comentario */
