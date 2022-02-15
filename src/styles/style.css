@@ -1,2 +1,23 @@
-h1 {color: red;}
-body {background-color: grey;}
+body {font-size:large;
+    display:flex;
+    justify-content:center}
+.wrapper {width: 70%;
+    background-color:rgb(129, 129, 128);
+height:200vh;}
+h1,h2, h3 
+{background: rgb(0, 0, 0);
+    border-style:outset;    
+    color:rgb(230, 214, 214);
+    font-style:italic;
+}
+
+.contact {color: rgb(255, 255, 255);}  
+.spanishred {color:red;}
+.spanishyellow {color: yellow;}
+.italiangreen {color:green;}
+.italianwhite {color:white}
+
+footer {text-align: justify;
+    font-size:small;}
+p {display: inline;}
+    /* comentario */
