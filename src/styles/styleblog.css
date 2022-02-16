@@ -1,0 +1,12 @@
+body {font-size:large;
+    display:flex;
+    justify-content:center}
+.wrapper {width: 70%;
+    background-color:rgb(129, 129, 128);
+}
+h1,h2, h3 
+{background: rgb(0, 0, 0);
+    border-style:outset;    
+    color:rgb(230, 214, 214);
+    font-style:italic;
+}
