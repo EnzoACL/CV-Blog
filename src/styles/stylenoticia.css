@@ -1,0 +1,29 @@
+body {font-size:large;
+    display:flex;
+    justify-content:center}
+.wrapper {width: 50%;
+    background-color:#818180;
+    height: 200vh;
+}
+
+h1 {background: rgb(0, 0, 0);
+    border-style:outset;    
+    color:rgb(230, 214, 214);
+    font-style:italic;
+}
+
+h2 {   background: rgb(0, 0, 0);
+    border-style:outset;    
+    color:rgb(230, 214, 214);
+    font-style:italic;
+    
+}
+nav {text-align: center;
+    display:flex;
+    justify-content: center;
+}
+button {background-color:rgb(202, 155, 155) ;
+    padding: 15px 30px;
+    font-size:large;
+}
+header {text-align:center;}

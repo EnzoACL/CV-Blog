@@ -3,6 +3,7 @@ body {font-size:large;
     justify-content:center}
 .wrapper {width: 50%;
     background-color:#818180;
+height: 200vh;
 }
 header {text-align: center;}
 nav {text-align: center;
