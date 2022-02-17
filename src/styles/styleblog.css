@@ -36,6 +36,5 @@ a { display: flex;
 .content {display:flex;
 vertical-align: text-top;
 margin: 0%;
-border: 3px solid green;
 justify-content: space-between;
 }
