@@ -1,10 +1,32 @@
 <!DOCTYPE html>
 <html>
 
-<head>    
+<head> 
+    <link rel="stylesheet" href="./styles/stylecontacto.css">
+
 </head>
 
 <body>
-    <h1>contact</h1>
+    <section class="wrapper">
+         <header><h1>Contacto</h1></header>
+        <nav>
+            <a href="index.html"><button>Curriculum</button></a>
+            <a href="./blog.html"><button>Blog</button></a>
+            <a href="./contact.html"><button>Contacto</button></a>
+        </nav>  
+        <header><h1>Formulario de Contacto</h1></header>
+       <section class="formulario">
+           
+        
+            <label for="nombreyapellidos">Nombre y apellidos:</label>
+            <input type="text" id="name" name="nombreyapellidos"> 
+            <label for="asunto">Asunto:</label>
+            <input type="text" id="asunto" name="asuntocontacto">
+            <label for="text">Mensaje:</label>
+            <textarea id="text" name="cuerpomensaje" rows="4" cols="50"></textarea>
+            <input type="button" value="Enviar">
+            
+
+        </section>
 </body>
 </html>
